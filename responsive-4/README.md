@@ -4,9 +4,9 @@
 Furthermore, made it using flex, grid.
 
 ## DEMO
-- [float]()
-- [flex]()
-- [grid]()
+- [float](https://focused-hawking-d09d86.netlify.app/responsive-4/float/)
+- [flex](https://focused-hawking-d09d86.netlify.app/responsive-4/flex/)
+- [grid](https://focused-hawking-d09d86.netlify.app/responsive-4/grid/)
 
 ## Screenshots
 

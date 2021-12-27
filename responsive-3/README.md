@@ -4,8 +4,8 @@
 Furthermore, made it using flex.
 
 ## DEMO
-- [float]()
-- [flex]()
+- [float](https://focused-hawking-d09d86.netlify.app/responsive-3/float/)
+- [flex](https://focused-hawking-d09d86.netlify.app/responsive-3/flex/)
 
 ## Screenshots
 
