@@ -1,9 +1,9 @@
 # Responsive Layout 5
 
-[This video](https://wtss.tistory.com/210) taught me how to make a responsive layout using float.  
-Furthermore, made it using flex.
+[This video](https://wtss.tistory.com/210) taught me.
 
-## DEMO
+## Demo
+
 - [float](https://focused-hawking-d09d86.netlify.app/responsive-5/float/)
 - [flex](https://focused-hawking-d09d86.netlify.app/responsive-5/flex/)
 
